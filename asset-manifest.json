@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/candy-crush/static/css/main.bc1ef7e7.chunk.css",
+    "main.js": "/candy-crush/static/js/main.3d56dbbd.chunk.js",
+    "main.js.map": "/candy-crush/static/js/main.3d56dbbd.chunk.js.map",
+    "runtime-main.js": "/candy-crush/static/js/runtime-main.117bb540.js",
+    "runtime-main.js.map": "/candy-crush/static/js/runtime-main.117bb540.js.map",
+    "static/js/2.2774249a.chunk.js": "/candy-crush/static/js/2.2774249a.chunk.js",
+    "static/js/2.2774249a.chunk.js.map": "/candy-crush/static/js/2.2774249a.chunk.js.map",
+    "index.html": "/candy-crush/index.html",
+    "static/css/main.bc1ef7e7.chunk.css.map": "/candy-crush/static/css/main.bc1ef7e7.chunk.css.map",
+    "static/js/2.2774249a.chunk.js.LICENSE.txt": "/candy-crush/static/js/2.2774249a.chunk.js.LICENSE.txt",
+    "static/media/blank.fbcb9179.png": "/candy-crush/static/media/blank.fbcb9179.png",
+    "static/media/blue-candy.73120c15.png": "/candy-crush/static/media/blue-candy.73120c15.png",
+    "static/media/cclogo.5424ed0a.jpg": "/candy-crush/static/media/cclogo.5424ed0a.jpg",
+    "static/media/green-candy.599f7016.png": "/candy-crush/static/media/green-candy.599f7016.png",
+    "static/media/orange-candy.f106b2cd.png": "/candy-crush/static/media/orange-candy.f106b2cd.png",
+    "static/media/purple-candy.ae25b8a5.png": "/candy-crush/static/media/purple-candy.ae25b8a5.png",
+    "static/media/red-candy.3658b37c.png": "/candy-crush/static/media/red-candy.3658b37c.png",
+    "static/media/yellow-candy.a3d87a9b.png": "/candy-crush/static/media/yellow-candy.a3d87a9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.117bb540.js",
+    "static/js/2.2774249a.chunk.js",
+    "static/css/main.bc1ef7e7.chunk.css",
+    "static/js/main.3d56dbbd.chunk.js"
+  ]
+}
