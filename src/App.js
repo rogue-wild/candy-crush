@@ -1,3 +1,6 @@
+/* eslint-disable no-undef */
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable react-hooks/exhaustive-deps */
 import {useEffect, useState} from 'react'
 import ScoreBoard from './components/ScoreBoard'
 import blueCandy from './images/blue-candy.png'
@@ -25,7 +28,7 @@ const App = () => {
     const [squareBeingReplaced, setSquareBeingReplaced] = useState(null)
     const [scoreDisplay, setScoreDisplay] = useState(0)
 
-    const checkForColumnOfFour = () => {
+    const checkForColumnOfFour = useCallback(() => {
         for (let i = 0; i <= 39; i++) {
             const columnOfFour = [i, i + width, i + width * 2, i + width * 3]
             const decidedColor = currentColorArrangement[i]
@@ -37,7 +40,7 @@ const App = () => {
                 return true
             }
         }
-    }
+    })
 
     const checkForRowOfFour = () => {
         for (let i = 0; i < 64; i++) {
